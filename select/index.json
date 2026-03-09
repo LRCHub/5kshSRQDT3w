@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "カルペ・ディエム",
+  "base_artist": "烏森大黒 (CV.Lynn)、舎人仁花子 (CV.斉藤朱夏)",
+  "createdAt": "2026-03-09T11:10:19.369462Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カルペ・ディエム",
+      "artist": "Liyuu",
+      "has_synced": true,
+      "path": "select/01_カルペ・ディエム_Liyuu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カルペ?ディエム",
+      "artist": "Aqua Timez",
+      "has_synced": false,
+      "path": "select/02_カルペ_ディエム_Aqua_Timez.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カルペ・ディエム",
+      "artist": "Aqua Timez",
+      "has_synced": false,
+      "path": "select/03_カルペ・ディエム_Aqua_Timez.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カルペ・ディエム",
+      "artist": "烏森大黒 (CV.Lynn)、舎人仁花子 (CV.斉藤朱夏)",
+      "has_synced": false,
+      "path": "select/pl_01_カルペ・ディエム_烏森大黒_(CV.Lynn)、舎人仁花子_(CV.斉藤朱夏).txt"
+    }
+  ]
+}
